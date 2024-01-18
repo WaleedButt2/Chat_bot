@@ -1,0 +1,11 @@
+python-dotenv
+openai
+langchain
+fastapi
+google
+google-cloud-storage
+python-multipart
+faiss-cpu
+tiktoken 
+langchain-core
+streamlit_chat

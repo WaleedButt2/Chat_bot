@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "temporarystorages",
+    "private_key_id": "e6cfefa368033c2758a9d9b9f27ec2f2274e2964",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDevj5zVvwC07my\nF/ZkXAIBVrg+JquWRnfKpkkYyjHH18w4H0sjvhhbnzcPBiegZzl6nQ4r2Zp3v34N\n7W7/eODJPfMtv1Uw04DA7ytGn09vsGBhBIRQrvsXQKitda0icXxBGHV7H6jSTnOb\nh+24ZgvOXC2Qkqb3Z0FR4XIt7j5YoRZwk/F4qvzmfMxpxxems15FryfvB6knRVmZ\nwnokfINlwj+rv+3NJiyuNtOvO3g0gMetj80KHn3r2La159DIFkd6c2Rs3RN4NPFH\nmXMZxg8d37R/WDTZtNLbU9Rx3AoUR4Z8NiYx5S1nfdCuBQqPMyDgHCL/CKePiLxS\nE8VLvzBvAgMBAAECggEACt8A+UeO+AfINmCtl0agmCQh8U10t5Ervvv08ViBhzBA\nOMdHW9U5S693nVD1lZSPlC1DSBW94tCU6hv1V8DrZ6b/O6papA38RCUxRqhAZ2bM\nmx1Jm1ehOi0DsxXdNjVsS+tR92StmhPE/K3/GQm2il5hV38DH7UuHqrub2NxCmUY\nsI0kd44jlX39M9s5adKLBc4lXAibmN+9iUabL+vfqbWSohIeDlJIZfqZtiJRJo/s\nDmT5CAwlHnBVCBc2cxdMVHPDsii3f7CVJ7VUuYCLL7Qg10FVXCFIK9TIL8HOBVuO\nyjH+11Cxo9Aw05Se85MzZR6lb2cKuu8UEXqJH3ZTYQKBgQD4J+lzniY1HMAEM53X\nl5rFGRV387mnoHHbz5G0bREgw091D4k9W34iFW9M8GnLQuQ8GLub7OfFfYEklTyK\nu7wthKvllUAvEuW3EJUj6drNCvnCHuEGFMa1g3S8OHR7aZY0WH/C+X+1Wj2/1BuS\nipLX1v5rHd7eazOJdyQioGmVqQKBgQDlyLDb1AtgwSCz2WCCreP1aoXnyVeYFL+K\ng6IibJqjv5jK3g6pRjRGZZdHNPMSyxARPRK2HtWrZUjo1GMJxLqOd2JF0TModlD3\nX4trtGcBwEPGEEF8lYU+Y5JlZ3XGk2yvI058oqcFlTurecaw0+gOj55ZNG5JIea8\n3F/GRh80VwKBgFctNj7urP91lSMkuuuVD8Lz9+3Gyk7P94+/0LDwq9a1pkE6bv0G\nGj6BBzOhNZk5a5KNIcM6K4XefDLM1pLqNsZK2FRz5TNkURzJj4spSTtFAs6mKGkJ\nfXEguC6zKoB8bE8BVAi7u5iLFixAqFsHoWR/26rnuHasdFNzbldXwR/ZAoGBALuG\nKS99wTtY4UNlJ2n+V4c1Q8qBekbWx+pWur61Ow5fkmYdCoIClS7OQcMO50BzD83B\ntb+DMoUJx5KboaebMVSLAVxQ+hsPU8xN4Q4oz9eR/L1rDsaJj4/22sZ+xJMmRRA5\nFBiK9RuNSoEKhKhSh5M6idPrAgYU8KU4g8DgAR9JAoGBAIaXPqu2/99v+Yup6yXP\nUKadXIRxFoDRE8bhdPk0uLuRC6G8qhQrHQI/tNU3DA0TIGYcAc8Olq6CH6EslOTG\npS3SAUdOU70MGjkggLWw5M3n7Hp4wfVROpQzj+iw0xVSVunhEez16l7U7Uyvwjxp\neUXsLNCIo/VZjvDmSFC/zMfP\n-----END PRIVATE KEY-----\n",
+    "client_email": "bucketreaderandwriter@temporarystorages.iam.gserviceaccount.com",
+    "client_id": "112185757460515473137",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucketreaderandwriter%40temporarystorages.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
